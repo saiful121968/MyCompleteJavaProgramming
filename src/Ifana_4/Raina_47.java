@@ -1,6 +1,6 @@
-package chapter04;
+package Ifana_4;
 
-public class J04_06 {
+public class Raina_47 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
