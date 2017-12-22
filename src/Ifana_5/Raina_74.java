@@ -1,9 +1,9 @@
-package chapter05;
+package Ifana_5;
 import java.util.Scanner;
 
 
 
-public class J05_20 {
+public class Raina_74 {
 
 
 	public static final boolean CHEAT = true;

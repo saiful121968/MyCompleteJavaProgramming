@@ -1,9 +1,9 @@
-package chapter05;
+package Ifana_5;
 
 import java.io.*;
 import java.util.Scanner;
 
-public class J05_17 {
+public class Raina_72 {
 
 
 	public static void main(String args[]) throws IOException { 

@@ -1,9 +1,9 @@
-package chapter05;
+package Ifana_5;
 
 import java.io.IOException;
 
 
-public class J05_06 {
+public class Raina_60 {
 
 
 	public static void main(String args[]) throws IOException { 

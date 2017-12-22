@@ -5,7 +5,7 @@ package chapter07;
 static String[] Menu={"File","Edit","View","Window","Help"};
 public static void main(String args[]) {
  for(int i = 0; i<5; i++)  {
-  System.out.print(Menu[i] + "   ");
+  System.out.print(Menu[i] + " ");
   }
  }
 }

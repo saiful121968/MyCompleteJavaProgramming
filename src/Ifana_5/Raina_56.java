@@ -1,9 +1,9 @@
-package chapter05;
+package Ifana_5;
 
 import java.io.IOException;
 import java.util.Scanner;
 
-public class J05_01 {
+public class Raina_56 {
 
 
 	public static void main(String args[]) throws IOException { 
@@ -16,21 +16,17 @@ public class J05_01 {
 
 		if(Age<=0)
 			System.out.println("You have not borned yet!");
-		
-		if(Age>0 && Age<=12)
+		else if(Age>0 && Age<=12)
 			System.out.println("You are a child.");
-		
-		if(Age>12 && Age<=19)
+		else if(Age>12 && Age<=19)
 			System.out.println("You are a teen ager.");
-		
-		if(Age>19 && Age<=40)
+		else if(Age>19 && Age<=40)
 			System.out.println("You are young.");
-		
-		if(Age>40)
+		else if(Age>40)
 			System.out.println("Wish your long life.");
-		
+
 		scnr.close();
-		
+
 	}
 
 }

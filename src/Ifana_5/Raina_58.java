@@ -1,10 +1,10 @@
-package chapter05;
+package Ifana_5;
 
 
 import java.io.*;
 
 
-public class J05_04 {
+public class Raina_58 {
 
 
 	public static void main(String args[]) throws IOException { 

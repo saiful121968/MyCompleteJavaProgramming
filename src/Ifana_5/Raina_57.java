@@ -1,9 +1,9 @@
-package chapter05;
+package Ifana_5;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class J05_03_1 {
+public class Raina_57 {
 
 
 	public static void main(String args[])

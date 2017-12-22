@@ -1,4 +1,4 @@
-package chapter05;
+package Ifana_5;
 // SwitchDemoEx1.java
 import java.util.Random;
 
