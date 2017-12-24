@@ -1,8 +1,8 @@
-package chapter06;
+package Ifana_6;
 
 
 
-public class J06_05 {
+public class Raina_79 {
 
 	public static void main(String[] args) {
 

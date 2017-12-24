@@ -1,6 +1,6 @@
-package chapter06;
+package Ifana_6;
 
-public class J06_18{
+public class Raina_93{
 
 	final static int Row = 10;
 	final static int Col = 10;

@@ -1,8 +1,8 @@
-package chapter06;
+package Ifana_6;
 import java.util.Scanner;
 
 
-public class J06_19{
+public class Raina_94{
 
 	public static void main(String[] args){
 		int Matrix1[][] = new int[3][3];

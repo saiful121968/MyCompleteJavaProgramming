@@ -1,9 +1,9 @@
-package chapter06;
+package Ifana_6;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class J06_091 {
+public class Raina_85 {
 
 	public static void main(String args[]) { 
 
@@ -29,10 +29,9 @@ public class J06_091 {
 		System.out.print("\nGiven  List of Roll is: ");
 		for(int i=0; i<L; i++)
 		{
-			System.out.print("" +Roll[i] +"  " );
+			System.out.print("" +Roll[i] +"\t" );
 		}
-		
-		
+	
 		System.out.print("\nSorted List of Roll is: ");
 		
 		Arrays.sort(Roll);

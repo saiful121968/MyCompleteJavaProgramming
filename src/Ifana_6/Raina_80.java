@@ -1,11 +1,11 @@
-package chapter06;
+package Ifana_6;
 
 
 import java.io.*;
 import java.util.Scanner;
 
 
-public class J06_06 {
+public class Raina_80 {
 
 	public static void main(String args[]) throws IOException { 
 

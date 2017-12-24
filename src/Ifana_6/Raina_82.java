@@ -1,9 +1,8 @@
-package chapter06;
+package Ifana_6;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class J06_10 {
+public class Raina_82 {
 
 	public static void main(String args[]) { 
 
@@ -26,22 +25,13 @@ public class J06_10 {
 		}
 
 		System.out.println();
-		System.out.print("\nGiven  List of Roll is: ");
-		for(int i=0; i<L; i++)
+		System.out.println("You entered: ");
+
+		for(int i=0; i<5; i++)
 		{
-			System.out.print("" +Roll[i] +"\t" );
+			System.out.println("Roll[" +i +"] = " +Roll[i]);
 		}
-	
-		System.out.print("\nSorted List of Roll is: ");
-		
-		Arrays.sort(Roll);
-		
-		for (int i: Roll){
-			System.out.print(i);
-			System.out.print("\t");
-			
-		}
-		
+
 		S.close();
 
 	}	// End of main()

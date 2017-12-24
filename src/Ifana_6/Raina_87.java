@@ -1,7 +1,7 @@
-package chapter06;
+package Ifana_6;
 import java.util.Scanner;
 
-public class J06_12 {
+public class Raina_87 {
 
 	public static void main(String[] args) { 
 
