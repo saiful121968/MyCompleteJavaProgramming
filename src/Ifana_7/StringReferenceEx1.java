@@ -1,4 +1,4 @@
-package chapter07;
+package Ifana_7;
 //  StringReferenceEx1.java
 // Using String Reference
 

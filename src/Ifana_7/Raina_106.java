@@ -1,7 +1,7 @@
-package chapter07;
+package Ifana_7;
 /* J07_29.java */
 /* Converting Number System using toString() Method */
- public class J07_29{
+ public class Raina_106{
 public static void main(String args[]){
 int N = 34;
 System.out.println("In String  System N : " + Integer.toString(N));

@@ -1,8 +1,8 @@
-package chapter07;
+package Ifana_7;
 /* J07_07.java */
 /* Using Arithmetic Operator to add one more strings to another and Assign one String by another */
 
- public class J07_07{
+ public class Raina_102{
 public static void main(String args[]) {
  String   S1, S2, S3, S4;
  S1 = new String("Java");

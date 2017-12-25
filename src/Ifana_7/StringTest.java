@@ -1,4 +1,4 @@
-package chapter07;
+package Ifana_7;
 /* StringTest.java */
 /* A Simple Program using String Object */
 

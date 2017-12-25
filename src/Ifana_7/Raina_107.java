@@ -1,8 +1,8 @@
-package chapter07;
+package Ifana_7;
 /* J07_30.java */
 /* Convering String Object to Corresponding Numeric Object */
 import  java.io.*; 
- public class J07_30{
+ public class Raina_107{
 public static void main(String args[]) throws IOException {
  String S;  // S is String Object
  Float F ;  // F is Wrapper Object

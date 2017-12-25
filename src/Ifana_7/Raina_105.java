@@ -1,7 +1,7 @@
-package chapter07;
-/* J07_08.java */
-/*  Example of toString() Method */
- public class J07_08{
+package Ifana_7;
+/* J07_28.java */
+/*  Converting StringBuffer Object to String Object using toString() Method */
+ public class Raina_105{
 public static void main(String args[]) {
  StringBuffer   S1;
  String   S2;

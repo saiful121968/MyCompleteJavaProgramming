@@ -1,4 +1,4 @@
-package chapter07;
+package Ifana_7;
 // StringImmutableTest.java
 public class StringImmutableTest {
 

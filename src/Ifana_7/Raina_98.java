@@ -1,8 +1,8 @@
-package chapter07;
+package Ifana_7;
 /* J07_04.java */
 /* Array of String Variable */
 import  java.io.* ; 
- public class J07_04{
+ public class Raina_98{
 public static void main(String args[]) {
  DataInputStream inData = new DataInputStream(System.in);
  String   Name;

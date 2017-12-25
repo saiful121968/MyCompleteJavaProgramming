@@ -1,4 +1,4 @@
-package chapter07;
+package Ifana_7;
 // StringOperation1.java
 public class StringOperation1 {
 

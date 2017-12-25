@@ -1,4 +1,4 @@
-package chapter07;
+package Ifana_7;
 // StringTest2.java
 
 public class StringTest2 {

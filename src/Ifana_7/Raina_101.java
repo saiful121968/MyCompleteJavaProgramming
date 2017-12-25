@@ -1,8 +1,8 @@
-package chapter07;
+package Ifana_7;
 /* J07_06_Alt.java */
 /* Array of String Objects */
 
-public class J07_06_Alt
+public class Raina_101
 {
     String[] Menu ={"File","Edit","View","Window","Help"};
 
@@ -15,7 +15,7 @@ for (String m: Menu){
 
     public static void main(String[] args)
     {
-    	J07_06_Alt sa1 = new J07_06_Alt();
+    	Raina_101 sa1 = new Raina_101();
     	sa1.display();
     }
 }

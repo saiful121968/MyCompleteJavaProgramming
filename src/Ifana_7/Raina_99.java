@@ -1,8 +1,8 @@
-package chapter07;
+package Ifana_7;
 /* J07_05.java */
 /* Example of readLine() Method */
 import  java.io.*; 
- public class J07_05{
+ public class Raina_99{
 public static void main(String args[])throws IOException {
 String   Name;
 BufferedReader inData = new BufferedReader (new InputStreamReader(System.in));

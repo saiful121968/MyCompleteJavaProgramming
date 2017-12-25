@@ -1,4 +1,4 @@
-package chapter07;
+package Ifana_7;
 //  StringReferenceEx2.java
 
 class Address {

@@ -1,7 +1,7 @@
-package chapter07;
+package Ifana_7;
 /* J07_27.java */
 /* 	Example of toString() Method() */
- public class J07_27{
+ public class Raina_104{
 public static void main(String args[]) {
  int N = 34;  // N is Primitive Type
  String S;    // S is String Type
