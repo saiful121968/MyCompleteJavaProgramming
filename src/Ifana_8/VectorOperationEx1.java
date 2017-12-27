@@ -1,4 +1,4 @@
-package chapter08;
+package Ifana_8;
 /* VectorOperationEx1.java */
 /* Example of Vector Operations using Class and Objects  */
 import java.util.*;

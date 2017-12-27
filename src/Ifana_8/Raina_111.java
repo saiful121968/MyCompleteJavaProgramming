@@ -1,8 +1,8 @@
-package chapter08;
+package Ifana_8;
 /* J08_17.java */
 /* Converting String Object to Corresponding Wrapper Class Objct using valueOf() Method  */
 import  java.io.*; 
- public class J08_17{
+ public class Raina_111{
 public static void main(String args[]) throws IOException {
  Float F;	//  f is wrapper class object
  String FString;

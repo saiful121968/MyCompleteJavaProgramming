@@ -1,8 +1,8 @@
-package chapter08;
+package Ifana_8;
 /* J08_19.java */
 /* Converting Wrapper Class Objct to Corresponding Primitive Type using typeValue() Method  */
 import  java.io.*;
-public class J08_19{
+public class Raina_113{
 	public static void main(String args[]){
 		Integer   I = new Integer(350) ;
 		Float     F = new Float(35.0) ;

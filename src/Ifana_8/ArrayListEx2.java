@@ -1,13 +1,12 @@
-package chapter08;
-// ArrayListEx1.java
-// http://www.tutorialspoint.com/java/java_arraylist_class.htm
+package Ifana_8;
+//ArrayListEx2.java
 
 import java.util.*;
 
-public class ArrayListEx1 {
+public class ArrayListEx2 {
    public static void main(String args[]) {
       // create an array list
-      ArrayList al = new ArrayList();
+      ArrayList<String> al = new ArrayList<String>();
       System.out.println("Initial size of al: " + al.size());
 
       // add elements to the array list
