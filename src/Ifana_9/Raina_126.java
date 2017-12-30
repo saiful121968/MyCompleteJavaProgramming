@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /*  J09_22.java   */
 /* 	Example of using static Variable through static Memthod */
 class Static {
@@ -13,7 +13,7 @@ static int Method2() {
  return 0;
  }
 }
- public class J09_22{
+ public class Raina_126{
 public static void main(String args[]){
  Static.Method1(); // 
  Static.Method2();

@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /* J09_10.java    */
 /* Example of Nesting member function */
 import java.io.* ;
@@ -28,7 +28,7 @@ void  display()  throws IOException {
  }
 }
 
- public class J09_10 {
+ public class Raina_116 {
 public static void main(String args[]) throws IOException {
  SquareNumber Sqr = new  SquareNumber();
   // Sqr is an object of SquareNumber class

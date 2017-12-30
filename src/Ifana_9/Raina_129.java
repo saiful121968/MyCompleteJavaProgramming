@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /* J09_34.java */
 /* Implementing Array of Object using Vector */
 import java.util.*;
@@ -32,7 +32,7 @@ public String toString()
 return new String(Roll  + "\t" +Name + "\t" +Mark + "\n");
 }
 }
- public class J09_34{
+ public class Raina_129{
 public static void main(String args[]){
   Vector V = new Vector();
   V.addElement(new Student(101, "Masud", 75.5));

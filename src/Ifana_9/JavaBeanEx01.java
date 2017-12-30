@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /*	JavaBeanEx01.java  */
 /* Use of JavaBean */ 
 

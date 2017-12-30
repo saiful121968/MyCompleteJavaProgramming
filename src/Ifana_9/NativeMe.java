@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /* NativeMe.java */
 /* This Program Illustrates of using Native Method */
  

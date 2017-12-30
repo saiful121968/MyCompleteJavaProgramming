@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /* J09_11.java */
 /*Example of Recursive Method */
 import java.io.*;
@@ -14,7 +14,7 @@ int fact(int n)
   }
  }
 }
- public class J09_11 {
+ public class Raina_117 {
 public static void main(String args[]) throws IOException {
  factorial f = new factorial();
  int N=0; 

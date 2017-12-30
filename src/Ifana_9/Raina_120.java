@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /* J09_14.java    */
 /* Example of Argumented Method */
 class Student {
@@ -18,7 +18,7 @@ class Student {
    }
   }  
 
- public class J09_14 {
+ public class Raina_120 {
  public static void main(String args[]){
   Student S = new Student();	// Creating object
  S.setData(101, "Ritu", 85);  // Calling Argumented Method

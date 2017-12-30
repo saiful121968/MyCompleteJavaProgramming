@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /* J09_29.java */
 /* Implementing Array of Objects */
 class Student {
@@ -19,7 +19,7 @@ class Student {
    }
   }  
 
- public class J09_29 {
+ public class Raina_128 {
 public static void main(String args[]){					         
  Student S[] = new Student[10];
 		// S is an object array of Student class

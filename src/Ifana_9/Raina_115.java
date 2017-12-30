@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /*	J09_09.java  */
 /*  ERROR in Running */ 
 class Sample{	
@@ -23,7 +23,7 @@ float add(int x, int y){
  }
  }
 
-public class J09_09 {
+public class Raina_115 {
 public static void main(String args[]){   // throws  IOException
  Sample s = new Sample();  // S is an object array of Sample class
  System.out.println("I Love Object Oriented Programmint");

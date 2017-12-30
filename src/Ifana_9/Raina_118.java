@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /* J09_12.java    */
 /* Example of Nested Objects	*/
 class Student {
@@ -30,7 +30,7 @@ class Result{
    }
   }  
 
- public class J09_12 {
+ public class Raina_118 {
 public static void main(String args[]) {
  Result R = new Result();	// Creating object
 		// R is an object of Result class

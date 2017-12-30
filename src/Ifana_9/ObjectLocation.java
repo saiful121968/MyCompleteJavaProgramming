@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /* ObjectLocation.java */
 /* Finding memory location of objects */
 

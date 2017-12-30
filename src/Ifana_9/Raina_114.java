@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /*	J09_07.java  */
 /* Method call that effects on return value*/ 
 class Student{
@@ -21,7 +21,7 @@ class Student{
   System.out.print("\nGrand Total = " +GTotal);
   }
  }  
- public class J09_07{
+ public class Raina_114{
 public static void main(String args[])// throws  IOException
  {					         
  Student S = new Student();	 

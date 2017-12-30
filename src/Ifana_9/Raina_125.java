@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /*        J09_20.java   */
 /* Auto Initialization of Static Member variable */
 class Static {
@@ -11,7 +11,7 @@ void display() {
  }
 }
 
- public class J09_20 {
+ public class Raina_125 {
 public static void main(String args[]){
 Static S1 = new Static() ; 
 Static S2 = new Static() ; 

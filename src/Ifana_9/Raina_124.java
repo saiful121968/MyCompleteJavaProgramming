@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /* J09_19.java    */
 /* Automatic Initialization of Static Member variable */
 class Static {
@@ -7,7 +7,7 @@ class Static {
    System.out.println(" Value of Static Member Variable : " + i);
    }
   }  
- public class J09_19 {
+ public class Raina_124 {
 public static void main(String args[]){
  Static S1 = new Static() ; 
  Static S2 = new Static() ; 

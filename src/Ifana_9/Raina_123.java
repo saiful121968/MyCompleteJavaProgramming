@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /*	J09_18.java   */
 /*   Object as  Method's return type  */ 
 class Sample {
@@ -11,7 +11,7 @@ Sample ChangeValue()  // Returning Object
  }
 }
  
- public class J09_18 {
+ public class Raina_123 {
 public static void main(String args[]){					         
   Sample  Obj1 = new Sample(20);
   Sample  Obj2 ;

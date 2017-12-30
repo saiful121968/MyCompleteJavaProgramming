@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /*
 public class Snippet {
 	// VariableReferenceEx1.cpp

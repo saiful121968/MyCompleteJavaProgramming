@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /*  J09_24.java   */
 /* 	ERROR in accessing non-ststic member variable through static Memthod */
 class Static {
@@ -12,7 +12,7 @@ static int Method1()	// Static Method
  return 0;
  }
 }
- public class J09_24 {
+ public class Raina_127 {
 public static void main(String args[]){
  Static.Method1(); // 
  }

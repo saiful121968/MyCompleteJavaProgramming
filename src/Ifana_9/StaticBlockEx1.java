@@ -1,4 +1,4 @@
-package chapter09;
+package Ifana_9;
 /*
  * StaticBlockEx1.java
  * Java application to demonstrate whether you can run a program without a main method * or not. *
